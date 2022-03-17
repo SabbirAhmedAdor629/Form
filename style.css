@@ -1,0 +1,37 @@
+* { 
+    margin: 0; 
+    padding: 0; 
+    box-sizing: border-box; 
+  } 
+  body { 
+    background-color: aliceblue; 
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    min-height: 100vh; 
+  } 
+  .container { 
+    background-color: beige; 
+    border-radius: 5px; 
+    box-shadow: 0 2px 10px black; 
+    height:400px; 
+    padding: 20px; 
+  } 
+   
+h1{ 
+    text-align: center; 
+} 
+  form > input { 
+      width: 100%; 
+      padding: 15px; 
+  } 
+   
+#sb{ 
+    border-radius: 10px; 
+    color: black; 
+} 
+
+h4{ 
+    text-align: center; 
+     
+}
